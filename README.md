@@ -1,2 +1,3 @@
-# sutton_rl_practice
-python code for sutton book in jupyter notebook
+# Reinforcement Learning (Jupyter Notebook)
+Jupyter Notebook (python) for Richard S. Sutton and Andrew G. Barto book : Reinforcement Learning: An Introduction
+
